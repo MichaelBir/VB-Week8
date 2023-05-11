@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5792514D-F108-449B-85C1-5AA864AB6382}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Read__Data__from__file FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week_8/Program.cs">
+    <Files>
+      <File FileName="Week_8/Program.cs" Line="19" Column="2" />
+      <File FileName="Read_Data_from_file/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week_8" expanded="True">
+            <Node name="Read_Data_from_file" expanded="True" />
+            <Node name="Week_8" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Week__8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.csproj.AssemblyReference.cache
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.AssemblyInfoInputs.cache
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.AssemblyInfo.cs
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Projects/Week_8/Week_8/bin/Debug/net7.0/Week_8
+/Users/mihkelkask/Projects/Week_8/Week_8/bin/Debug/net7.0/Week_8.deps.json
+/Users/mihkelkask/Projects/Week_8/Week_8/bin/Debug/net7.0/Week_8.runtimeconfig.json
+/Users/mihkelkask/Projects/Week_8/Week_8/bin/Debug/net7.0/Week_8.dll
+/Users/mihkelkask/Projects/Week_8/Week_8/bin/Debug/net7.0/Week_8.pdb
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.dll
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/refint/Week_8.dll
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.pdb
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/Week_8.genruntimeconfig.cache
+/Users/mihkelkask/Projects/Week_8/Week_8/obj/Debug/net7.0/ref/Week_8.dll
